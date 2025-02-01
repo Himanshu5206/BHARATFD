@@ -36,25 +36,25 @@ Mocha & Chai (Testing)
 
 BharatFD/
 
-│-- Controllers/faqController.js        # Business logic controllers
+│-- Controllers/faqController.js               # Business logic controllers
 
-│-- models/FAQ.js            # Mongoose models
+│-- models/FAQ.js                           # Mongoose models
 
-│-- routes/faqRoutes.js            # Express routes
+│-- routes/faqRoutes.js                       # Express routes
 
-│-- test/faqtest.js              # Test cases with Mocha & Chai
+│-- test/faqtest.js                         # Test cases with Mocha & Chai
 
-│-- utils/translate.js             # Utility functions
+│-- utils/translate.js                        # Utility functions
 
-│-- server.js          # Main Express application
+│-- server.js                             # Main Express application
 
-│-- .env               # Environment variables
+│-- .env                                   # Environment variables
 
-│-- docker-compose.yml # Docker services
+│-- docker-compose.yml                       # Docker services
 
-│-- package.json       # Project metadata and dependencies
+│-- package.json                           # Project metadata and dependencies
 
-│-- README.md          # API Documentation
+│-- README.md                                # API Documentation
 
 
 ## Installation
@@ -71,7 +71,7 @@ Docker (optional for containerized deployment)
 
 ## Setup Project
 
-git clone 
+git clone https://github.com/Himanshu5206/BHARATFD.git
 
 cd BharatFD
 
